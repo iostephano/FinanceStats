@@ -117,3 +117,4 @@ Es una pantalla de estadísticas, no una app de finanzas completa:
 ## Autor
 
 Stephano Portella
+
