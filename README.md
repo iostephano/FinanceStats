@@ -6,6 +6,8 @@ con el detalle de cada categoría. Pensada como pieza de portafolio para mostrar
 composición de vistas con `UIViewRepresentable`, geometría de UI aislada y testeable, y
 cálculo monetario con `Decimal` en un contexto de reportes financieros.
 
+<img width="1315" height="767" alt="FinanceStats" src="https://github.com/user-attachments/assets/6ecd0a26-3381-421c-b94b-d47f918ae357" />
+
 ---
 
 ## Tecnologías usadas
